@@ -1,0 +1,97 @@
+﻿@model ShopOnlineConnection.SANPHAM
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_MainLayoutAdmin.cshtml";
+}
+
+<style>
+
+    input[type=submit] {
+        width: 10%;
+        background-color: #152036;
+        color: white;
+        padding: 14px 20px;
+        font: inherit;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+</style>
+
+
+<div class="single-pro-review-area">
+    @*@using (Html.BeginForm("Edit", "SanPhamAdmin", FormMethod.Post, new { @style = "width : 100%; margin: center;" }))
+    {*@
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="review-tab-pro-inner">
+                        <ul id="myTab3" class="tab-review-design">
+                            <li class="active"><a href="#description"><i class="icon nalika-edit" aria-hidden="true"></i> Thêm sản phẩm</a></li>
+                        </ul>
+                        <div id="myTabContent" class="tab-content custom-product-edit">
+                            <div class="product-tab-list tab-pane fade active in" id="description">
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                        <div class="review-content-section">
+                                            <div class="input-group mg-b-pro-edt">
+                                                <span class="input-group-addon"><i class="icon nalika-user" aria-hidden="true"></i></span>
+                                                <input type="text" class="form-control" name="MASP" placeholder="Mã Sản Phẩm" required value="@Model.MASP" readonly>
+
+                                            </div>
+                                            <div class="input-group mg-b-pro-edt">
+                                                <span class="input-group-addon"><i class="icon nalika-edit" aria-hidden="true"></i></span>
+                                                <input type="text" class="form-control" name="TENSP" placeholder="Tên Sản Phẩm" required value="@Model.TENSP">
+
+                                            </div>
+                                            <div class="input-group mg-b-pro-edt">
+                                                <span class="input-group-addon"><i class="icon nalika-edit" aria-hidden="true"></i></span>
+                                                <input type="number" class="form-control" name="GIA" placeholder="Giá" required value="@Model.GIA">
+
+                                            </div>
+                                            <div class="input-group mg-b-pro-edt">
+                                                <span class="input-group-addon"><i class="icon nalika-edit" aria-hidden="true"></i></span>
+                                                <input type="text" class="form-control" name="TINHTRANG" placeholder="Tình Trạng" required value="@Model.TINHTRANG">
+
+                                            </div>
+                                            <div class="input-group mg-b-pro-edt">
+                                                <span class="input-group-addon"><i class="icon nalika-edit" aria-hidden="true"></i></span>
+                                                <input type="text" class="form-control" name="MOTA" placeholder="Mô Tả" required value="@Model.MOTA">
+
+                                            </div>
+                                            <div class="input-group mg-b-pro-edt">
+                                                <span class="input-group-addon"><i class="icon nalika-edit" aria-hidden="true"></i></span>
+                                                <input type="text" class="form-control" name="HINHCHINH" placeholder="Hình Ảnh" value="@Model.HINHCHINH">
+
+
+                                                <span class="input-group-addon"><i aria-hidden="true"></i></span>
+                                                <input type="file" class="form-control" id="file-upload" onchange="previewFile();" name="HINHCHINH" placeholder="Mã Hình Ảnh">
+
+                                            </div>
+                                            <div class="input-group mg-b-pro-edt">
+                                                <span class="input-group-addon"><i class="icon nalika-edit" aria-hidden="true"></i></span>
+                                                <input type="text" class="form-control" name="MALOAI" placeholder="Mã Loại" value="@Model.MALOAI">
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="text-center custom-pro-edt-ds">
+
+                                            <input type="submit" value="Lưu">
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    @*}*@
+</div>
+

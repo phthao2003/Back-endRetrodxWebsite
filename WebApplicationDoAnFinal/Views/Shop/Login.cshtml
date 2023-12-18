@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<!-- ***** Trang đăng nhập ***** -->
+
+<div class="u-s-p-b-60">
+
+    <!--====== Section Intro ======-->
+    <!--====== End - Section Intro ======-->
+    <!--====== Section Content ======-->
+    <div class="section__content">
+        <div class="container">
+            <div class="row row--center">
+                <div class="col-lg-6 col-md-8 u-s-m-b-30">
+                    <div class="l-f-o">
+                        <div class="l-f-o__pad-box">
+                            <h1 class="gl-h1" style="text-align:center">ĐĂNG NHẬP</h1>
+
+
+                            <form class="l-f-o__form">
+                                <div class="gl-s-api">
+                                    <div class="u-s-m-b-15">
+
+                                        <button class="gl-s-api__btn gl-s-api__btn--fb" type="button">
+                                            <i class="fab fa-facebook-f"></i>
+
+                                            <span>Đăng nhập với Facebook</span>
+                                        </button>
+                                    </div>
+                                    <div class="u-s-m-b-15">
+
+                                        <button class="gl-s-api__btn gl-s-api__btn--gplus" type="button">
+                                            <i class="fab fa-google"></i>
+
+                                            <span>Đăng nhập với Google</span>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="u-s-m-b-30">
+                                    <br />
+                                    <label class="gl-label" for="login-email">TÊN ĐĂNG NHẬP *</label>
+
+                                    <input class="input-text input-text--primary-style" type="text" id="login-email" placeholder="Tên đăng nhập">
+                                </div>
+                                <div class="u-s-m-b-30">
+
+                                    <label class="gl-label" for="login-password">MẬT KHẨU *</label>
+
+                                    <input class="input-text input-text--primary-style" type="text" id="login-password" placeholder="Mật khẩu">
+                                </div>
+                                <div class="gl-inline">
+                                    <div class="u-s-m-b-30">
+
+                                        <button class="btn btn--e-transparent-brand-b-2" type="submit">ĐĂNG NHẬP</button>
+                                    </div>
+                                    <div class="u-s-m-b-30">
+
+                                        <a class="gl-link" href="#">Quên mật khẩu?</a>
+                                    </div>
+                                </div>
+                                <div class="u-s-m-b-30">
+
+                                    <!--====== Check Box ======-->
+                                    <div class="check-box">
+
+                                        <input type="checkbox" id="remember-me">
+                                        <div class="check-box__state check-box__state--primary">
+
+                                            <label class="check-box__label" for="remember-me">Lưu đăng nhập</label>
+                                        </div>
+                                    </div>
+                                    <!--====== End - Check Box ======-->
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--====== End - Section Content ======-->
+</div>

@@ -1,0 +1,1390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2023-12-18T13:08:16.9450016Z;False|2023-12-18T20:07:23.2865699+07:00;True|2023-12-15T07:30:42.8493928+07:00;False|2023-12-15T07:23:47.3340124+07:00;False|2023-12-15T07:20:05.4864009+07:00;False|2023-12-15T07:18:59.8740021+07:00;False|2023-12-15T07:16:56.0165058+07:00;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\app.publish\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/Admin/Views/LoaiSanPhamAdmin/Create.cshtml">
+      <publishTime>12/17/2023 06:20:29</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/LoaiSanPhamAdmin/Edit.cshtml">
+      <publishTime>12/18/2023 17:05:04</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/LoaiSanPhamAdmin/Index.cshtml">
+      <publishTime>12/18/2023 17:05:04</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/LoaiSanPhamAdmin/XoaTamThoi.cshtml">
+      <publishTime>12/18/2023 17:05:04</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/MainAdmin/Index.cshtml">
+      <publishTime>12/18/2023 13:27:29</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/SanPhamAdmin/Create.cshtml">
+      <publishTime>05/27/2023 11:28:08</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/SanPhamAdmin/Edit.cshtml">
+      <publishTime>05/27/2023 11:19:32</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/SanPhamAdmin/Index.cshtml">
+      <publishTime>12/18/2023 17:05:04</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/SanPhamAdmin/XoaTamThoi.cshtml">
+      <publishTime>05/27/2023 11:28:23</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Shared/_MainLayoutAdmin.cshtml">
+      <publishTime>12/18/2023 13:19:07</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/ThanhVienAdmin/Index.cshtml">
+      <publishTime>05/28/2023 03:22:04</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/web.config">
+      <publishTime>04/21/2023 19:28:48</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/accordions.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/alerts.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/animate.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/bootstrap.min.css">
+      <publishTime>12/16/2023 16:11:47</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/buttons.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/c3/c3.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/calendar/fullcalendar.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/calendar/fullcalendar.print.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/chosen/bootstrap-chosen.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/chosen/chosen-sprite.png">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/code-editor/ambiance.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/code-editor/codemirror.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/colorpicker/colorpicker.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/cropper/cropper.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/data-table/bootstrap-editable.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/data-table/bootstrap-table.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/datapicker/colorpicker.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/datapicker/datepicker3.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/dropzone/dropzone.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/duallistbox/bootstrap-duallistbox.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/editor/bootstrap-editable.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/editor/datetimepicker.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/editor/select2.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/editor/x-editor-style.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/font-awesome.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/form/all-type-forms.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/form/themesaller-forms.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/ionRangeSlider/ion.rangeSlider.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/ionRangeSlider/ion.rangeSlider.skinFlat.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/ionRangeSlider/sprite-skin-flat.png">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/main.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/meanmenu.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/metisMenu/metisMenu-vertical.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/metisMenu/metisMenu.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/modals.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/morrisjs/morris.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/nalika-icon.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/normalize.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/notifications/Lobibox.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/notifications/notifications.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/owl.carousel.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/owl.theme.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/owl.transitions.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/preloader/preloader-style.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/responsive.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/scrollbar/jquery.mCustomScrollbar.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/select2/select2.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/summernote/fonts/summernote.eot">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/summernote/fonts/summernote.ttf">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/summernote/fonts/summernote.woff">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/summernote/summernote.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/tabs.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/touchspin/jquery.bootstrap-touchspin.min.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/tree-viewer/32px.png">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/tree-viewer/throbber.gif">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/css/tree-viewer/tree-viewer.css">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/fontawesome-webfont.eot">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/fontawesome-webfont.svg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/fontawesome-webfont.ttf">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/fontawesome-webfont.woff">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/fontawesome-webfont.woff2">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/FontAwesome.otf">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/nalika.svg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/nalika.ttf">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/fonts/nalika.woff">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/blog-details/1.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/blog-details/Thumbs.db">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/contact/1.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/contact/2.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/contact/3.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/contact/4.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/contact/Thumbs.db">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/cropper/1.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/cropper/Thumbs.db">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/favicon.ico">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/green1.png">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/logo/logo.png">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/logo/logosn.png">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/logo/Thumbs.db">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/new-product/16-home_default.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/new-product/21-home_default.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/new-product/5-small.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/new-product/5.png">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/new-product/6-small.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/new-product/6.png">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/new-product/7-small.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/new-product/7.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/new-product/90-home_default.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/new-product/Thumbs.db">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/notification/1.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/notification/2.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/notification/3.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/notification/4.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/notification/5.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/notification/6.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/notification/Thumbs.db">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/product/1.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/product/2.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/product/3.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/product/bg-1.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/product/bg-2.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/product/bg-3.jpg">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/product/Thumbs.db">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/Retrodz %282%29.png">
+      <publishTime>12/15/2023 21:05:41</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/Thumbs.db">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/img/white-logo.jpg">
+      <publishTime>05/28/2023 02:49:47</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/bootstrap.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/c3-charts/c3-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/c3-charts/c3.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/c3-charts/d3.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/calendar/fullcalendar-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/calendar/fullcalendar.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/calendar/moment.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/card.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/chart/jquery.peity.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/chart/peity-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/charts/area-chart.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/charts/bar-chart.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/charts/Chart.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/charts/line-chart.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/charts/rounded-chart.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/chosen/chosen-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/chosen/chosen.jquery.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/code-editor/code-editor-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/code-editor/code-editor.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/code-editor/codemirror.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/colorpicker/color-picker-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/colorpicker/jquery.spectrum.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/counterup/counterup-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/counterup/jquery.counterup.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/counterup/waypoints.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/cropper/cropper-actice.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/cropper/cropper.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-map/d3.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-map/data-maps-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-map/datamaps.all.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-map/topojson.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-table/bootstrap-editable.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-table/bootstrap-table-editable.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-table/bootstrap-table-export.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-table/bootstrap-table-resizable.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-table/bootstrap-table.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-table/colResizable-1.5.source.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-table/data-table-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/data-table/tableExport.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/datapicker/bootstrap-datepicker.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/datapicker/datepicker-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/dropzone/dropzone.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/duallistbox/duallistbox.active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/duallistbox/jquery.bootstrap-duallistbox.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/e-payment.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/editable/bootstrap-datetimepicker.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/editable/bootstrap-editable.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/editable/jquery.mockjax.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/editable/mock-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/editable/moment.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/editable/select2.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/editable/xediable-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/flot/curvedLines.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/flot/flot-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/flot/jquery.flot.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/flot/jquery.flot.orderBars.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/flot/jquery.flot.pie.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/flot/jquery.flot.resize.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/flot/jquery.flot.tooltip.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/google.maps/google.maps-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/icheck/icheck-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/icheck/icheck.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/input-mask/jasny-bootstrap.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/ionRangeSlider/ion.rangeSlider.active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/ionRangeSlider/ion.rangeSlider.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/jquery-price-slider.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/jquery.meanmenu.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/jquery.payform.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/jquery.scrollUp.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/jquery.sticky.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/knob/jquery.knob.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/knob/knob-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/main.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/metisMenu/metisMenu-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/metisMenu/metisMenu.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/morrisjs/morris-active-pro.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/morrisjs/morris-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/morrisjs/morris.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/morrisjs/raphael-min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/notifications/Lobibox.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/notifications/notification-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/owl.carousel.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/password-meter/password-meter-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/password-meter/pwstrength-bootstrap.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/password-meter/zxcvbn.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/pdf/jquery.media.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/pdf/pdf-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/peity/jquery.peity.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/peity/peity-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/plugins.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/rangle-slider/jquery-ui-1.10.4.custom.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/rangle-slider/jquery-ui-touch-punch.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/rangle-slider/rangle-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/scrollbar/jquery.mCustomScrollbar.concat.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/scrollbar/mCustomScrollbar-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/select2/select2-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/select2/select2.full.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/sparkline/jquery.charts-sparkline.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/sparkline/jquery.sparkline.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/sparkline/sparkline-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/summernote/summernote-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/summernote/summernote.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/tab.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/touchspin/jquery.bootstrap-touchspin.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/touchspin/touchspin-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/tree-line/jstree.active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/tree-line/jstree.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/vendor/jquery-1.12.4.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/vendor/modernizr-2.8.3.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/wizard/jquery.steps.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/wizard/steps-active.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/js/wow.min.js">
+      <publishTime>10/15/2018 19:15:32</publishTime>
+    </File>
+    <File Include="Areas/AssetAdmin/style.css">
+      <publishTime>05/25/2023 10:51:39</publishTime>
+    </File>
+    <File Include="Assets/css/app.color8.css">
+      <publishTime>12/16/2023 08:42:30</publishTime>
+    </File>
+    <File Include="Assets/css/ar_style.css">
+      <publishTime>07/22/2023 10:10:04</publishTime>
+    </File>
+    <File Include="Assets/css/bootstrap.min.css">
+      <publishTime>05/27/2023 19:51:14</publishTime>
+    </File>
+    <File Include="Assets/css/flex-slider.css">
+      <publishTime>05/27/2023 19:48:56</publishTime>
+    </File>
+    <File Include="Assets/css/font-awesome.css">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/css/lightbox.css">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/css/owl-carousel.css">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/css/templatemo-hexashop.css">
+      <publishTime>05/25/2023 10:40:01</publishTime>
+    </File>
+    <File Include="Assets/css/utility.css">
+      <publishTime>12/15/2023 05:35:27</publishTime>
+    </File>
+    <File Include="Assets/css/vendor.css">
+      <publishTime>12/16/2023 08:40:33</publishTime>
+    </File>
+    <File Include="Assets/fonts/Flaticon.woff">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/flexslider-icon.eot">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/flexslider-icon.svg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/flexslider-icon.ttf">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/flexslider-icon.woff">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/fontawesome-webfont.eot">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/fontawesome-webfont.svg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/fontawesome-webfont.ttf">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/fontawesome-webfont.woff">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/fontawesome-webfont.woff2">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/FontAwesome.otf">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/slick.eot">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/slick.svg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/slick.ttf">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/fonts/slick.woff">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/images/about-left-image.jpg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/images/anhsale.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/banner-right.jpg">
+      <publishTime>05/27/2023 21:04:01</publishTime>
+    </File>
+    <File Include="Assets/images/banner-sale.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/bannerblur.png">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/banphim1.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/banphim2.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/blog1.png">
+      <publishTime>12/18/2023 11:38:19</publishTime>
+    </File>
+    <File Include="Assets/images/blog2.png">
+      <publishTime>12/18/2023 13:14:24</publishTime>
+    </File>
+    <File Include="Assets/images/blog3.png">
+      <publishTime>12/18/2023 13:14:50</publishTime>
+    </File>
+    <File Include="Assets/images/chrismast.png">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/chuot1.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/chuot2.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/cpugaming.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/cpugaming2.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/favicon.png">
+      <publishTime>12/18/2023 07:51:18</publishTime>
+    </File>
+    <File Include="Assets/images/H01.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/headphone.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/K01.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/L01.jpg">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/lap.png">
+      <publishTime>12/18/2023 12:37:22</publishTime>
+    </File>
+    <File Include="Assets/images/loading.gif">
+      <publishTime>12/15/2023 06:24:28</publishTime>
+    </File>
+    <File Include="Assets/images/logo.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/M01.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/music.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/musicgame.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/new.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/ok.jpg">
+      <publishTime>05/27/2023 21:42:49</publishTime>
+    </File>
+    <File Include="Assets/images/ok1.jpg">
+      <publishTime>05/27/2023 21:43:49</publishTime>
+    </File>
+    <File Include="Assets/images/other.jpg">
+      <publishTime>05/27/2023 21:42:10</publishTime>
+    </File>
+    <File Include="Assets/images/P01.jpg">
+      <publishTime>12/15/2023 06:24:23</publishTime>
+    </File>
+    <File Include="Assets/images/playstationsilver.jpg">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/preloader.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/prev.png">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/images/products-page-heading.jpg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/images/Retrodz %281%29.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/Retrodz %282%29.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/Retrodz.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/reviewer.jpg">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/S01.jpg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/images/S02.jpg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/images/service-01.jpg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/images/service-02.jpg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/images/service-03.jpg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/images/slider1.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/slider2.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/sonyplaystation.jpg">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/tai-nghe-1.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/tainghe-pink.jpg">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/tainghe.jpg">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/tainghe2.jpg">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/tainghegamingjpg.jpg">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/images/team-member-02.jpg">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/images/uudai.png">
+      <publishTime>12/15/2023 06:24:29</publishTime>
+    </File>
+    <File Include="Assets/js/accordions.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/aframe.min.js">
+      <publishTime>07/22/2023 10:52:48</publishTime>
+    </File>
+    <File Include="Assets/js/app.js">
+      <publishTime>12/15/2023 05:38:45</publishTime>
+    </File>
+    <File Include="Assets/js/ar.js">
+      <publishTime>07/22/2023 11:05:20</publishTime>
+    </File>
+    <File Include="Assets/js/bootstrap.min.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/custom.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/datepicker.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/imgfix.min.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/isotope.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/jquery-2.1.0.min.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/jquery.counterup.min.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/jquery.shopnav.js">
+      <publishTime>12/15/2023 05:38:45</publishTime>
+    </File>
+    <File Include="Assets/js/lightbox.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/map-init.js">
+      <publishTime>12/15/2023 05:38:45</publishTime>
+    </File>
+    <File Include="Assets/js/owl-carousel.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/popper.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/quantity.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/scrollreveal.min.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/slick.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="Assets/js/vendor.js">
+      <publishTime>12/15/2023 05:38:45</publishTime>
+    </File>
+    <File Include="Assets/js/waypoints.min.js">
+      <publishTime>11/29/2021 12:20:47</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>05/27/2022 23:39:10</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 01:06:16</publishTime>
+    </File>
+    <File Include="bin/PagedList.dll">
+      <publishTime>10/01/2013 00:36:38</publishTime>
+    </File>
+    <File Include="bin/PagedList.Mvc.dll">
+      <publishTime>10/01/2013 01:15:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/05/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/05/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/05/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/05/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/05/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/05/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>05/27/2022 23:41:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>05/27/2022 23:42:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>05/27/2022 23:42:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>05/27/2022 23:42:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>05/27/2022 23:42:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>05/27/2022 23:42:50</publishTime>
+    </File>
+    <File Include="bin/WebApplicationDoAnFinal.dll">
+      <publishTime>12/18/2023 20:08:16</publishTime>
+    </File>
+    <File Include="bin/WebApplicationDoAnFinal.pdb">
+      <publishTime>12/18/2023 20:08:16</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/23/2014 13:57:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Content/PagedList.css">
+      <publishTime>04/12/2023 21:39:20</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>04/06/2023 13:32:05</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>04/06/2023 13:32:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/06/2023 13:32:05</publishTime>
+    </File>
+    <File Include="Models/Generated/PetaPoco.Core.ttinclude">
+      <publishTime>04/09/2023 16:15:47</publishTime>
+    </File>
+    <File Include="Models/Generated/PetaPoco.Generator.ttinclude">
+      <publishTime>04/09/2023 16:15:47</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.js">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.js">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.min.map">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.js">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.min.js">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.4.1.slim.min.map">
+      <publishTime>04/06/2023 13:32:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>04/06/2023 13:32:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>04/06/2023 13:32:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>04/06/2023 13:32:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>04/06/2023 13:32:11</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.8.3.js">
+      <publishTime>04/06/2023 13:32:11</publishTime>
+    </File>
+    <File Include="Views/Home/AboutMS.cshtml">
+      <publishTime>04/06/2023 13:32:05</publishTime>
+    </File>
+    <File Include="Views/Home/Ar_shoe.cshtml">
+      <publishTime>07/22/2023 11:00:48</publishTime>
+    </File>
+    <File Include="Views/Home/ContactMS.cshtml">
+      <publishTime>04/06/2023 13:32:05</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>12/18/2023 17:05:04</publishTime>
+    </File>
+    <File Include="Views/Home/Register%28delete%29.cshtml">
+      <publishTime>05/27/2023 20:23:18</publishTime>
+    </File>
+    <File Include="Views/LoaiSanPham/Index.cshtml">
+      <publishTime>12/17/2023 04:21:39</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>04/06/2023 13:32:05</publishTime>
+    </File>
+    <File Include="Views/Shared/_Footer.cshtml">
+      <publishTime>12/15/2023 06:43:46</publishTime>
+    </File>
+    <File Include="Views/Shared/_Header.cshtml">
+      <publishTime>12/17/2023 03:49:06</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>04/06/2023 13:32:05</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoaiSanPham.cshtml">
+      <publishTime>12/17/2023 03:57:51</publishTime>
+    </File>
+    <File Include="Views/Shared/_MainLayout.cshtml">
+      <publishTime>12/17/2023 03:49:06</publishTime>
+    </File>
+    <File Include="Views/Shared/_MSLayout.cshtml">
+      <publishTime>04/06/2023 13:32:05</publishTime>
+    </File>
+    <File Include="Views/Shared/_Top4New.cshtml">
+      <publishTime>04/20/2023 23:47:11</publishTime>
+    </File>
+    <File Include="Views/Shop/About.cshtml">
+      <publishTime>05/28/2023 18:16:47</publishTime>
+    </File>
+    <File Include="Views/Shop/AR.cshtml">
+      <publishTime>09/18/2023 11:58:56</publishTime>
+    </File>
+    <File Include="Views/Shop/Ar_shoes.cshtml">
+      <publishTime>07/22/2023 14:23:25</publishTime>
+    </File>
+    <File Include="Views/Shop/Details.cshtml">
+      <publishTime>12/16/2023 08:32:09</publishTime>
+    </File>
+    <File Include="Views/Shop/error.cshtml">
+      <publishTime>05/27/2023 22:59:51</publishTime>
+    </File>
+    <File Include="Views/Shop/Index.cshtml">
+      <publishTime>12/16/2023 08:34:32</publishTime>
+    </File>
+    <File Include="Views/Shop/Login.cshtml">
+      <publishTime>12/16/2023 08:56:23</publishTime>
+    </File>
+    <File Include="Views/Shop/Signup.cshtml">
+      <publishTime>12/16/2023 08:35:00</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>04/06/2023 13:32:05</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>04/06/2023 13:41:45</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/18/2023 20:07:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

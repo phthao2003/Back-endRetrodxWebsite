@@ -1,0 +1,656 @@
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\csc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\csc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\csc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\csi.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\csi.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\csi.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.AppContext.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Console.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Net.Http.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Net.Sockets.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.ValueTuple.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\vbc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\vbc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\vbc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\Antlr3.Runtime.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\Microsoft.Web.Infrastructure.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\Newtonsoft.Json.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.Helpers.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.Optimization.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.WebPages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\WebGrease.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.Helpers.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.Optimization.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.WebPages.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\Newtonsoft.Json.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\Antlr3.Runtime.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.AssemblyReference.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CoreCompileInputs.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CopyComplete
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\csc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\csc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\csc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\csi.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\csi.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\csi.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.AppContext.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Console.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Net.Http.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Net.Sockets.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.ValueTuple.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\vbc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\vbc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\vbc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\Antlr3.Runtime.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\Microsoft.Web.Infrastructure.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\Newtonsoft.Json.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.Helpers.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.Optimization.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.WebPages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\WebGrease.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.Helpers.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.Optimization.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.WebPages.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\Newtonsoft.Json.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\Antlr3.Runtime.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.AssemblyReference.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CoreCompileInputs.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CopyComplete
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\front-end 1\sua-lan-1\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\csc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\csc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\csc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\csi.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\csi.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\csi.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.AppContext.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Console.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Net.Http.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Net.Sockets.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.ValueTuple.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\vbc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\vbc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\vbc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\Antlr3.Runtime.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\Microsoft.Web.Infrastructure.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\Newtonsoft.Json.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.Helpers.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.Optimization.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\WebGrease.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.Helpers.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.Optimization.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\Newtonsoft.Json.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\Antlr3.Runtime.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.AssemblyReference.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CoreCompileInputs.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CopyComplete
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\PagedList.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\PagedList.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\PagedList.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\present\present\WebApplicationDoAnFinal\bin\PagedList.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\csc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\csc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\csc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\csi.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\csi.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\csi.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.AppContext.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Console.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Net.Http.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Net.Sockets.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.ValueTuple.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\vbc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\vbc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\vbc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\Antlr3.Runtime.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\Microsoft.Web.Infrastructure.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\Newtonsoft.Json.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\PagedList.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\PagedList.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.Helpers.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.Optimization.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\WebGrease.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\PagedList.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\PagedList.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.Helpers.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.Optimization.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\Newtonsoft.Json.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\Antlr3.Runtime.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.AssemblyReference.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CoreCompileInputs.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CopyComplete
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\ko co load top4\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\csc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\csc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\csc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\csi.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\csi.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\csi.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.AppContext.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Console.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Net.Http.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Net.Sockets.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.ValueTuple.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\vbc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\vbc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\vbc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\Antlr3.Runtime.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\Microsoft.Web.Infrastructure.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\Newtonsoft.Json.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\PagedList.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\PagedList.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.Helpers.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.Optimization.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\WebGrease.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\PagedList.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\PagedList.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.Helpers.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.Optimization.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\Newtonsoft.Json.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\Antlr3.Runtime.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.AssemblyReference.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CoreCompileInputs.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CopyComplete
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\nhung phien ban demo\NEWEST\present\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csi.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csi.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csi.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.AppContext.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Console.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Net.Http.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Net.Sockets.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.ValueTuple.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\vbc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\vbc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\vbc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\Antlr3.Runtime.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\Microsoft.Web.Infrastructure.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\Newtonsoft.Json.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Helpers.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Optimization.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\WebGrease.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Helpers.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Optimization.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\Newtonsoft.Json.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\Antlr3.Runtime.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.AssemblyReference.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CoreCompileInputs.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CopyComplete
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\[FINAL PROJECT] GROUP 7\N7\Demo website\SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csi.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csi.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csi.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.AppContext.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Console.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Net.Http.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Net.Sockets.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.ValueTuple.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\vbc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\vbc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\vbc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\Antlr3.Runtime.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\Microsoft.Web.Infrastructure.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\Newtonsoft.Json.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Helpers.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Optimization.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\WebGrease.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Helpers.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Optimization.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\Newtonsoft.Json.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\Antlr3.Runtime.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.AssemblyReference.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CoreCompileInputs.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CopyComplete
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\WebApplicationDoAnFinal.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csi.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csi.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\csi.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.AppContext.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Console.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Net.Http.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Net.Sockets.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.ValueTuple.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\vbc.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\vbc.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\vbc.rsp
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\Antlr3.Runtime.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\Microsoft.Web.Infrastructure.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\Newtonsoft.Json.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Helpers.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Mvc.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Optimization.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\WebGrease.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\PagedList.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Helpers.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Mvc.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Optimization.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Deployment.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\System.Web.WebPages.Razor.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\Newtonsoft.Json.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\Antlr3.Runtime.pdb
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.AssemblyReference.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CoreCompileInputs.cache
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CopyComplete
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.dll
+D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\UPDATING SOURCE CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.pdb
