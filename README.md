@@ -4,7 +4,7 @@ Final project of E-commerce Application Development course.
 
 - This repository is only the **Back-end** source code of the project, access the front-end source code here:
 
-  [https://github.com/phthao2003/Back-endRetrodxWebsite ](https://github.com/phthao2003/RetrodxWebsite)
+  https://github.com/phthao2003/RetrodxWebsite 
 - This project is developed based on the following template:
 
   https://github.com/ahmadhuss/ludus-free-premium-ecommerce-template
