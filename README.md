@@ -2,7 +2,7 @@
 
 Final project of E-commerce Application Development course.
 
-- This repository is only the *back-end* source code of the project, access the back-end source code here:
+- This repository is only the **Back-end** source code of the project, access the back-end source code here:
 
   [https://github.com/phthao2003/Back-endRetrodxWebsite ](https://github.com/phthao2003/RetrodxWebsite)
 - This project is developed based on the following template:
