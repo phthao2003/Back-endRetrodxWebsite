@@ -1,4 +1,4 @@
-## Back-endRetrodxWebsite
+## Back-end Retrodx Website
 
 Final project of E-commerce Application Development course.
 
